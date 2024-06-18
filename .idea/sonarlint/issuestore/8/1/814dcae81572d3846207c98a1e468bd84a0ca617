@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®´Ü‹8ëìİÑ‚2J$fe05e3c5-1d7a-4178-86b9-acdbf89f46b3
+^
+java:S1116	"Remove this empty statement.(“ĞÉ?8›£îÑ‚2J$c08547a6-5688-42f4-bae5-bea710b05711
+m	java:S106"+Replace this use of System.out by a logger.(üÉ´á8ôìİÑ‚2J$7203c908-83ac-46d5-a741-ad4f83fdbd56
+q
+java:S1068")Remove this unused "speed" private field.(ŠÖ•Ïÿÿÿÿÿ8öìİÑ‚2J$87f99a55-94f4-46ac-a11c-620b94c23843

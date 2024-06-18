@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒöÑşÿÿÿÿ8¯êĞÕ‚2J$1867f21d-0624-4bcf-874c-2b0a5c03dfb3
+m	java:S106"+Replace this use of System.out by a logger.(õ½¹¢8·êĞÕ‚2J$8237b831-9a40-4ff0-9775-d3a0bda78e5c
+r	java:S106"+Replace this use of System.out by a logger.(¼¶™ûÿÿÿÿ8·êĞÕ‚2J$967dd4a1-4a4f-42e7-b53f-32ba3397cc36
+m	java:S106""+Replace this use of System.out by a logger.(ôÁ”¦8¸êĞÕ‚2J$8709add7-f9a3-4ced-859c-1dfd51c62b06
+r	java:S106("+Replace this use of System.out by a logger.(ÏíÆ‘úÿÿÿÿ8ÙñÕÕ‚2J$32dc42b7-df4e-4cd3-93ff-dc2dd9782c6e
+s
+java:S1068	"+Remove this unused "address" private field.(÷§ùÿÿÿÿ8¹êĞÕ‚2J$28cd84e1-6303-4529-af07-3d7199448568
